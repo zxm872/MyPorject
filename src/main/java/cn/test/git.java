@@ -5,6 +5,7 @@ public class git {
         System.out.println("hello");
        System.out.println("你好啊");
         System.out.println("6666");
+        System.out.println("77777");
         System.out.println("66玩22");
     }
 }
